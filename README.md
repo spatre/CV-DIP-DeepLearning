@@ -16,4 +16,4 @@ This repository contains image processing algorithms implemented as part of my E
 • Trained and tested the performance of Convolutional Neural Network(CNN) on MNIST dataset of Handwritten digits.<br /><br />
 • Also implemented the application of Saak Transform to MNIST dataset and compared the results between Saak Transform and CNN. <br /><br />
 
-**Note:** I had used Visual Studio as the primary IDE and C++ as the primary language. Have also used Python, MATLAB, OpenCV, Keras, TensorFlow frameworks etc in the projects
+**Note:** I had used Visual Studio as the primary IDE and C++ as the primary language. Have also used Python, MATLAB, OpenCV, Image J, Keras, TensorFlow frameworks etc in the projects
