@@ -1,5 +1,5 @@
-# Digital-Image-Processing
-**Implementation of Digital Image Processing Concepts**
+# Digital Image Processing and Computer Vision
+**Implementation of DIP and CV Concepts**
 
 This repository contains image processing algorithms implemented as part of my EE 569 - Introduction to Digital Image processing under Prof.Jay Kuo at USC.
 
